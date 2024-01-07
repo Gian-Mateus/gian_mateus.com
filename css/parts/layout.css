@@ -1,0 +1,13 @@
+/* html{
+    height: 100%;
+}
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    position: relative;
+}
+
+main{
+    flex: 1 0 auto;
+} */

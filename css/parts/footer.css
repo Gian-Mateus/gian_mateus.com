@@ -1,0 +1,13 @@
+footer{
+    background-color: #e0e0e0bd;
+    bottom: 0;
+}
+
+footer .socialIcons li{
+    list-style: none;
+    display: inline-block;
+}
+
+footer .socialIcons li a{
+    color: rgba(0, 0, 0, 0.7);
+}
